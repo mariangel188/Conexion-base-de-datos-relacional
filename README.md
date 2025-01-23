@@ -1,1 +1,3 @@
-# Conexi-n-base-de-datos-relacional
+# Conexion-base-de-datos-relacional
+
+Trabajo de consulta en wiki
